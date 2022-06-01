@@ -31,7 +31,7 @@ install() {
 
 	mkdir -p "${bin_install_path}"
 
-	echo "Downloading cilium hubble from ${download_url}"
+	echo "Installing cilium hubble from ${download_url}..."
 	cd "${bin_install_path}"
 	curl -sL "$download_url" | tar zx hubble
 }
