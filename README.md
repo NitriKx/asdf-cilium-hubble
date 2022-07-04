@@ -14,4 +14,7 @@ Check out the [asdf](https://github.com/asdf-vm/asdf) readme for instructions.
 
 ## Credit
 
-[carnei-ro](https://github.com/carnei-ro/) as this repo is based on [asdf-cilium-cli](https://github.com/carnei-ro/asdf-cilium-cli)
+[carnei-ro](https://github.com/carnei-ro/) as this repo is based on [asdf-cilium-cli](https://github.com/carnei-ro/asdf-cilium-cli
+
+Contributors:
+- [Rabattkarte](https://github.com/Rabattkarte)
